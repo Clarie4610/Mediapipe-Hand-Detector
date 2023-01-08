@@ -8,4 +8,6 @@
 -The program is running in 30FPS so it is gathering coodinates and depth in every about 0.033 seconds.
 -However there's a certain point where the depth can not be measured and recorded as 0. So I made it measured in the range of 30px x 30px centered on the wrist coordinates.
 
--after measuring them I deleted the 0 ones and recorded the median of the numbers.
+-After measuring them I deleted the 0 ones and recorded the median of the numbers.
+
+-Finally all the datas are combined and output as a csv file.
