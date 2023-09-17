@@ -1,6 +1,6 @@
 # Mediapipe-Hand-Detector
 
-- Made in PyCharm Project.
+- Made in PyCharm Project Ver. 2021.1.3. (Warning:Newer versions do not work)
 - Python Version: 3.7.0
 ***
 -This program is for capturing hand wrist XY coordinates, depth and measured time by using depth camera "RealSense d435i"
